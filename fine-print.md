@@ -1,5 +1,5 @@
 ---
-author: Benjamin J. Balter
+author: Tormi Tabor
 title: Fine Print
 excerpt: null
 layout: page
